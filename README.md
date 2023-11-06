@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to **Shoes Collection**, a cross-platform application developed using Flutter. This application is designed to provide a seamless shopping experience for shoe enthusiasts across different platforms.
+Welcome to **Shoes Collection**, a cross-platform application developed in Dart Programming language using the Flutter framework. This application is designed to provide a seamless shopping experience for shoe enthusiasts across different platforms.
 
 ## Features
 
@@ -11,7 +11,7 @@ Welcome to **Shoes Collection**, a cross-platform application developed using Fl
 - **Responsive UI**: The user interface is designed to adapt to different screen sizes for an optimal user experience.
 
 
-### Prerequisites
+### Prerequisites to open app on your device.
 
 - Flutter SDK
 - Dart SDK
